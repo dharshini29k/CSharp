@@ -1,0 +1,14 @@
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\bin\Debug\net10.0\exp5.exe
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\bin\Debug\net10.0\exp5.deps.json
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\bin\Debug\net10.0\exp5.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\bin\Debug\net10.0\exp5.dll
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\bin\Debug\net10.0\exp5.pdb
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.dll
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\refint\exp5.dll
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.pdb
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\exp5.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\c#lab\exp5\obj\Debug\net10.0\ref\exp5.dll
